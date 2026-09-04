@@ -1,0 +1,15 @@
+{
+    "schema":  1,
+    "updatedAt":  "2026-09-04T16:59:03.4468272Z",
+    "licenses":  [
+                     {
+                         "id":  "noctu-teste-interno-20260904165903",
+                         "hash":  "41B67155D92CCF8257BB49EACB2B08391B626F3C1D817D0D2028D5BD9D98A7B0",
+                         "customer":  "Noctu - teste interno",
+                         "plan":  "Até 10 usuários",
+                         "seats":  10,
+                         "validUntil":  "2027-09-30",
+                         "active":  true
+                     }
+                 ]
+}
